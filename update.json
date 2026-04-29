@@ -1,6 +1,6 @@
 {
-    "versionCode": 110,
-    "versionName": "1.1.0",
+    "versionCode": 111,
+    "versionName": "1.1.1",
     "downloadUrl": "https://724555508.github.io/DownloadHubPlus/app-china-release.apk",
     "updateContent": "1. 修复已知崩溃问题\n2. 优化下载速度\n3. 新增视频播放功能",
     "forceUpdate": false
