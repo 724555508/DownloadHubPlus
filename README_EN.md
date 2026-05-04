@@ -1,6 +1,6 @@
 # DownloadHubPlus
 
-A lightweight Android browser application with built-in video detection and download management capabilities.
+A lightweight Android browser application with automatic video detection from web pages (including pornhub, xvideos, xxnn, eporner, etc.).
 
 ## 📱 Key Features
 
@@ -25,42 +25,15 @@ A lightweight Android browser application with built-in video detection and down
 - **Password Protection**: App lock feature
 - **Privacy Security**: Protect your browsing history and app data
 
-### ⚙️ Additional Features
-- **Ad Blocking**: Built-in ad blocking functionality
-- **Bookmark Management**: Import/export bookmarks support
-- **Multi-language**: Supports 20+ languages
-- **Dark Theme**: Dark/light theme switching
-- **Customizable Homepage**: Set your own startup page
-
-## 📋 Version Info
-
-- **Current Version**: 1.1.3
-- **VersionCode**: 113
-- **Update Content**:
-  1. Fixed known crash issues
-  2. Optimized download speed
-  3. Added new video playback features
-
 ## ⬇️ Download & Install
 
 ### Latest Version
 [![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://724555508.github.io/DownloadHubPlus/app-china-release.apk)
 
-Download link:
+Scan QR code to download:
 ```
 https://724555508.github.io/DownloadHubPlus/app-china-release.apk
 ```
-
-## 🔧 Technical Info
-
-- **Platform**: Android
-- **Languages**: Kotlin + Java
-- **Min SDK**: Android 8.0 (API 26)
-- **Target SDK**: Android 14 (API 35)
-
-## 👤 Developer
-
-- **GitHub**: [@724555508](https://github.com/724555508)
 
 ## 📬 Contact & Feedback
 
