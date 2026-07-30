@@ -13,3 +13,4 @@
 {"url": "https://www.91porna.com", "title": "91porna", "order": 13, "hide": false}
 {"url": "https://www.vjav.com", "title": "Vjav", "order": 14, "hide": false}
 {"url": "https://www.spankbang.com", "title": "Spankbang", "order": 15, "hide": false}
+{"url": "https://www.xhamster.com", "title": "Xhamster", "order": 16, "hide": false}
