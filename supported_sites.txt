@@ -11,3 +11,4 @@
 {"url": "https://www.youporn.com", "title": "Youporn", "order": 11, "hide": false}
 {"url": "https://www.youjizz.com", "title": "Youjizz", "order": 12, "hide": false}
 {"url": "https://www.91porna.com", "title": "91porna", "order": 13, "hide": false}
+{"url": "https://www.vjav.com", "title": "Vjav", "order": 14, "hide": false}
